@@ -251,12 +251,12 @@ class App extends Component {
 
       <div>
           <div className="row">
-            <div className= {isDislayForm ? 'col-4': ''} >
+            <div className= {isDislayForm ? 'col-xs-12 col-md-4': ''} >
               {elmTaskForm}
               
             </div>
             {/* end them cong viec */}
-            <div className= {isDislayForm ? 'col-8': 'col-12'}>
+            <div className= {isDislayForm ? 'col-xs-12 col-md-8': 'col-xs-12 col-md-12'}>
               <div className="row ml-1">
                 <button onClick={this.onDislayForm} type="button" className={isDislayForm?'btn btn-danger':'btn btn-dark'}>
                     <i className="icofont-ui-add">&nbsp;</i>
