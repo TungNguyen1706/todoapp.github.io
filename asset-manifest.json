@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/todoapp/static/css/main.ac8360bb.chunk.css",
-    "main.js": "/todoapp/static/js/main.5d260947.chunk.js",
-    "main.js.map": "/todoapp/static/js/main.5d260947.chunk.js.map",
-    "runtime-main.js": "/todoapp/static/js/runtime-main.5545d9fc.js",
-    "runtime-main.js.map": "/todoapp/static/js/runtime-main.5545d9fc.js.map",
-    "static/css/2.627926fe.chunk.css": "/todoapp/static/css/2.627926fe.chunk.css",
-    "static/js/2.8bee08d9.chunk.js": "/todoapp/static/js/2.8bee08d9.chunk.js",
-    "static/js/2.8bee08d9.chunk.js.map": "/todoapp/static/js/2.8bee08d9.chunk.js.map",
-    "index.html": "/todoapp/index.html",
-    "precache-manifest.506318b003117e43b2e97770d3be61b1.js": "/todoapp/precache-manifest.506318b003117e43b2e97770d3be61b1.js",
-    "service-worker.js": "/todoapp/service-worker.js",
-    "static/css/2.627926fe.chunk.css.map": "/todoapp/static/css/2.627926fe.chunk.css.map",
-    "static/css/main.ac8360bb.chunk.css.map": "/todoapp/static/css/main.ac8360bb.chunk.css.map",
-    "static/js/2.8bee08d9.chunk.js.LICENSE.txt": "/todoapp/static/js/2.8bee08d9.chunk.js.LICENSE.txt"
+    "main.css": "/TungNguyen1706/todoapp.github.io.git/static/css/main.ac8360bb.chunk.css",
+    "main.js": "/TungNguyen1706/todoapp.github.io.git/static/js/main.2179b8cc.chunk.js",
+    "main.js.map": "/TungNguyen1706/todoapp.github.io.git/static/js/main.2179b8cc.chunk.js.map",
+    "runtime-main.js": "/TungNguyen1706/todoapp.github.io.git/static/js/runtime-main.eae85c5f.js",
+    "runtime-main.js.map": "/TungNguyen1706/todoapp.github.io.git/static/js/runtime-main.eae85c5f.js.map",
+    "static/css/2.627926fe.chunk.css": "/TungNguyen1706/todoapp.github.io.git/static/css/2.627926fe.chunk.css",
+    "static/js/2.8bee08d9.chunk.js": "/TungNguyen1706/todoapp.github.io.git/static/js/2.8bee08d9.chunk.js",
+    "static/js/2.8bee08d9.chunk.js.map": "/TungNguyen1706/todoapp.github.io.git/static/js/2.8bee08d9.chunk.js.map",
+    "index.html": "/TungNguyen1706/todoapp.github.io.git/index.html",
+    "precache-manifest.fce7a9fb4ff5658bfdc3a64aed785607.js": "/TungNguyen1706/todoapp.github.io.git/precache-manifest.fce7a9fb4ff5658bfdc3a64aed785607.js",
+    "service-worker.js": "/TungNguyen1706/todoapp.github.io.git/service-worker.js",
+    "static/css/2.627926fe.chunk.css.map": "/TungNguyen1706/todoapp.github.io.git/static/css/2.627926fe.chunk.css.map",
+    "static/css/main.ac8360bb.chunk.css.map": "/TungNguyen1706/todoapp.github.io.git/static/css/main.ac8360bb.chunk.css.map",
+    "static/js/2.8bee08d9.chunk.js.LICENSE.txt": "/TungNguyen1706/todoapp.github.io.git/static/js/2.8bee08d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5545d9fc.js",
+    "static/js/runtime-main.eae85c5f.js",
     "static/css/2.627926fe.chunk.css",
     "static/js/2.8bee08d9.chunk.js",
     "static/css/main.ac8360bb.chunk.css",
-    "static/js/main.5d260947.chunk.js"
+    "static/js/main.2179b8cc.chunk.js"
   ]
 }
